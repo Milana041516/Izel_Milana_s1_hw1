@@ -1,4 +1,4 @@
-# Izel_Milana_s1_hw1
+# Izel and Milana
 Homework 1 for Multimedia Authoring
 
 ## TM2: Milana Gabbassova ##
